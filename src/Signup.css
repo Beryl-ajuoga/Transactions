@@ -1,0 +1,12 @@
+body{
+    background-color:blue;
+}
+button{
+    height: 50px;
+    width: 100px;
+    position: relative;
+    right: 130px;
+    top: 70px;
+    margin-right: 25%;
+    
+}
